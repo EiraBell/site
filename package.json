@@ -1,0 +1,27 @@
+{
+  "name": "site",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "webpack-dev-server",
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/EiraBell/site#readme",
+  "dependencies": {
+    "lidash": "^0.1.3",
+    "lodash": "^4.17.15",
+    "normalize.css": "^8.0.1"
+  },
+  "main": "test.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EiraBell/site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EiraBell/site/issues"
+  },
+  "description": ""
+}
