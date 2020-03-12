@@ -2,6 +2,7 @@
     background-image: linear-gradient(to right top, #4ebffe, #46b3f5, #40a7ec, #3b9be3, #378fd9); 
     width: 74rem;
     padding-top: 3.75rem;
+    padding-bottom: 8.623em;
     color: #fff;
    }
 
@@ -11,8 +12,8 @@
 }
 
 .site-header__text-content {
+    width: 36.375rem;
     padding-top: 7rem;
-    width: 34.75rem;
 }
 
 .site-header__logo {
@@ -20,26 +21,34 @@
 }
 
 .site-header__title {
-    font-family: Ubuntu;
-    font-size: 1.625rem;
-    letter-spacing: 1.5px;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.3125rem;
+    font-weight: 900;
+    letter-spacing: 1px;
 }
 .site-header__title span {
-    font-size: 2.875rem;
+    font-size: 3.6875rem;
+}
+
+.site-header__moto {
+    width: 25.4375rem;
 }
 
 .travel-img {
-    width: 32.4375rem;
-    height: 32.4375rem;
+    width: 517px;
+    height: 517px;
+    padding-top: 4.0625rem;
 }
 
 .btn {
     background: #ffd429;
     color: #000;
-    font-family: Ubuntu;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 0.9375;
     display: block;
     width: 13.75rem;
     padding: 1.1875rem 0;
     text-align: center;
     text-decoration: none;
+    margin-top: 1.75rem;
 }
