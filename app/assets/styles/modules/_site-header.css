@@ -1,0 +1,45 @@
+.site-header {
+    background-image: linear-gradient(to right top, #4ebffe, #46b3f5, #40a7ec, #3b9be3, #378fd9); 
+    width: 74rem;
+    padding-top: 3.75rem;
+    color: #fff;
+   }
+
+.container {
+    width: 73.125rem;
+    margin: 0 auto;
+}
+
+.site-header__text-content {
+    padding-top: 7rem;
+    width: 34.75rem;
+}
+
+.site-header__logo {
+    width: 6.0625rem;
+}
+
+.site-header__title {
+    font-family: Ubuntu;
+    font-size: 1.625rem;
+    letter-spacing: 1.5px;
+}
+.site-header__title span {
+    font-size: 2.875rem;
+}
+
+.travel-img {
+    width: 32.4375rem;
+    height: 32.4375rem;
+}
+
+.btn {
+    background: #ffd429;
+    color: #000;
+    font-family: Ubuntu;
+    display: block;
+    width: 13.75rem;
+    padding: 1.1875rem 0;
+    text-align: center;
+    text-decoration: none;
+}
